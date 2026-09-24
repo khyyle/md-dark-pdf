@@ -1,0 +1,31 @@
+{
+  "name": "md-dark-pdf",
+  "version": "1.0.0",
+  "description": "Export Markdown to a dark Cursor-themed PDF with beautiful-mermaid diagrams",
+  "type": "module",
+  "bin": {
+    "md-dark-pdf": "./bin/md-dark-pdf.mjs"
+  },
+  "files": [
+    "bin",
+    "assets"
+  ],
+  "scripts": {
+    "start": "node ./bin/md-dark-pdf.mjs"
+  },
+  "keywords": [
+    "markdown",
+    "pdf",
+    "mermaid",
+    "dark-theme",
+    "vscode",
+    "cursor"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "beautiful-mermaid": "^1.1.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
