@@ -55,7 +55,7 @@ md-dark-pdf notes.md --no-open
 ```
 
 
-> On macOS, you can also double-click `Md Dark PDF.command` in Finder to launch a file picker without opening the terminal.
+> On macOS, you can also double-click `md-dark-pdf.command` in Finder to launch a file picker without opening the terminal.
 
 ---
 
